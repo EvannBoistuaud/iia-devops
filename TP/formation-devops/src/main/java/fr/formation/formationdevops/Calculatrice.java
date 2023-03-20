@@ -6,6 +6,6 @@ public class Calculatrice {
     }
 
     public int soustraire(int a, int b) {
-        return b - a;
+        return a - b;
     }
 }
