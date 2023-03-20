@@ -1,8 +1,6 @@
 package fr.formation.formationdevops.service;
 
-import org.springframework.stereotype.Service;
-
-@Service
+// @Service
 public class ProduitService {
     
     public void findAll() {
