@@ -5,7 +5,7 @@ Fonctionnalité: Calculatrice
         Alors le résultat est 9
 
         Quand l'utilisateur fait 5+9
-        Alors le résultat test 14
+        Alors le résultat est 14
 
         
     Scénario: L'utilisateur soustrait
@@ -13,4 +13,4 @@ Fonctionnalité: Calculatrice
         Alors le résultat est 1
 
         Quand l'utilisateur fait 10-5
-        Alors le résultat test 5
+        Alors le résultat est 5
